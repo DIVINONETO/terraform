@@ -1,0 +1,7 @@
+*id_rsa.pub
+*.tfstate
+*.tfstate.*
+azure/aks/.terraform.lock.hcl
+azure/storage/.terraform.lock.hcl
+azure/aks/.terraform/*
+azure/storage/.terraform/*
